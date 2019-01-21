@@ -8,6 +8,7 @@ So this algorithm processes any equation of one variable in form of a string and
         System.out.println(crack1(equation,"m"));//result computation
         
 The result?
-        m=+1.1063829787234043
+                                        m=+1.1063829787234043
 
 Theoretically, any LINEAR equation caonsisting of the characters in the layout below  excluding "/" (division) can be evaluated by cracker.
+![img_20180104_004328_174](https://user-images.githubusercontent.com/37802577/51503484-9668ba80-1ddb-11e9-86be-ceee4bd5e30e.jpg)
