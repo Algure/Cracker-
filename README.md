@@ -1,5 +1,11 @@
 # Cracker-
-This algorithm processes any equation of one variable in form of a string and computes the value. Based on an algorithm developed long ago in java to process any mathematical expression accepted by some of the most advanced calculators.will be putting that up soon. But cracker's ultimate function is named "crack1" and it requires 2 parameters both strings. The first is a String of a linear equation of one variable with an "=" sign and then a String of the independent variable (character).certain alphabets can't be used as variables such as 'a, x,l, s, ' and a few others since the whole algorithm is based on string processing so I suggest you stick with 'g d m q and r' . Both classes must however be used in the same package:Mycalc and cracker.  Cracker's functions are however all static for obvious reasons (It's Java). A sample of the test is found in cracker's main function. 
+This algorithm resolves linear equations with 1 unknown. Cracker's ultimate function is named "crack1" and it requires 2 parameters- both strings. The first is a String of a linear equation of one unknown which must have an "=" sign and then a String of the independent variable (character). 
+
+The whole algorithm is based on string processing. Hence, certain alphabets can't be used as variables - 'a, x,l, s, '. 
+
+Suggested variables are 'g d m q and r'. 
+
+Cracker's functions are all static for obvious reasons (It's Java). A sample of the test is found in cracker's main function. 
 
         
         String equation="2+3m=5";// this line assigns the equation
